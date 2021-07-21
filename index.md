@@ -1,36 +1,36 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/Notproffesionalcoder/Windows-11-minium-requirements/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1><font color="blue">Windows 11 Minium System requirements</font></h1
+<p>Processor	1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Memory	4 GB RAM</p>
 
-### Markdown
+<p>Storage	64 GB or larger storage device</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>System firmware	UEFI, Secure Boot capable</p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<p>TPM	Trusted Platform Module (TPM) version 2.0</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<p>Graphics card	DirectX 12 compatible graphics / WDDM 2.x
 
-**Bold** and _Italic_ and `Code` text
+Display	> 9" with HD Resolution (720p)  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Internet connection	Microsoft account and internet connectivity required for setup for Windows 11 Home
+<h1><font color="red">Thank you</font></h1
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Notproffesionalcoder/Windows-11-minium-requirements/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+.</p>
+
+</body>
+</html>
 
 ### Support or Contact
 
