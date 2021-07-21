@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Page Title</title>
@@ -26,12 +26,3 @@ Display	> 9" with HD Resolution (720p)
 
 Internet connection	Microsoft account and internet connectivity required for setup for Windows 11 Home
 <h1><font color="red">Thank you</font></h1
-
-.</p>
-
-</body>
-</html>
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
